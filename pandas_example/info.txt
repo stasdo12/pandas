@@ -1,0 +1,3 @@
+SERIES - one column[]
+DATA FRAME - table with several columns [[]]
+
