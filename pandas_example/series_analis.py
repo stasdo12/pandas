@@ -101,3 +101,5 @@ print('__________________________')
 result_with_range = new_numbers_with_many_values.take(range(12, 55, 5))
 print(result_with_range)
 print('__________________________')
+
+
